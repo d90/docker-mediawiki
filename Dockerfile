@@ -1,1 +1,1 @@
-FROM mediawiki:latest
+FROM mediawiki:lts
